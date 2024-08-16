@@ -1,1 +1,1 @@
-# Text-classification
+In this project, I developed a machine learning model to classify news articles into different categories based on their content. The process involved collecting a dataset of news articles, preprocessing the text data (including tokenization, removing stop words, and stemming), and then applying various machine learning algorithms like Naive Bayes, SVM, and deep learning models to train the classifier. I evaluated the model's performance using accuracy, precision, and recall metrics.
